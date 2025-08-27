@@ -1,2 +1,3 @@
 # myprograms
-my first git repositoory
+my first git repository.
+Authhor-Shirsha
